@@ -10,6 +10,6 @@
 - Academic Records Dashboard
 
 **Demo / Screenshots:**  
-![Sample Screenshot](link-to-placeholder-image)
+![Sample Screenshot](https://via.placeholder.com/400x200?text=ERP+Dashboard)
 
 **Status:** Frontend complete, backend demo with sample data
