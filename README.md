@@ -1,23 +1,49 @@
-# College ERP Management System (2025)
+# College ERP System
 
-**Tech Stack:** HTML, CSS, PHP, MySQL  
-**Description:** College ERP system with modules for student registration, attendance tracking, fee management, and academic records.  
+A simple **College ERP System** built with **PHP, MySQL, and HTML/CSS** for managing students, attendance, and fees.
 
-**Features:**
-- Student Registration
-- Attendance Tracking
-- Fee Management
-- Academic Records Dashboard
+---
 
-## 🚀 Demo / Screenshots
+## Features
 
-### 🔹 Login Page
-![Login Page](images/login.png)
+- **User Authentication**  
+  - Login and logout system with session management.
+  - Role display (Admin/User) on the dashboard.
 
-### 🔹 Dashboard View 1
-![Dashboard 1](images/d1.png)
+- **Dashboard**  
+  - Centralized dashboard linking all modules: Students, Attendance, Fees.
 
-### 🔹 Dashboard View 2
-![Dashboard 2](images/d2.png)
+- **Students Module**  
+  - Add new students with Roll No, Name, Semester, and Department.
+  - View student list.
+  - Delete student records.
 
-**Status:** Frontend complete, backend demo with sample data
+- **Attendance Module**  
+  - Mark attendance for students (Present, Absent, Leave).
+  - View attendance records by date.
+
+- **Fees Module**  
+  - Add fees for students with amount and due date.
+  - Mark fees as paid.
+  - View fee records and payment status.
+
+- **Responsive UI**  
+  - Styled with a single external CSS file for consistency across modules.
+
+---
+
+## Tech Stack
+
+- **Frontend:** HTML, CSS  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Server:** XAMPP / WAMP (localhost)
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/harshitaupr12/erp_project.git
